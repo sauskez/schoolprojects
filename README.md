@@ -16,7 +16,7 @@ Most likely a capstone project or perhaps a <a href="https://discord.gg/9PNrbNRF
 
 - <b>Brainstorming</b>
 
-<h2>Program walk-through:</h2>
+<h2>Where the Magic Happens</h2>
 
 <p align="center">
 <p><img src="https://www.deltaconnected.com/arcdps/notepad.gif"></img></p><br/>
