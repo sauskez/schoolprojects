@@ -1,9 +1,9 @@
 <h1>Project Placeholder #2</h1>
 
- ### Things will be going here.
+ ### School Projects
 
 <h2>Description</h2>
-Interesting placeholder description
+Most likely a capstone project or perhaps a <a href="https://discord.gg/9PNrbNRF">study group</a> will find it's meaning here.
 <br />
 
 
@@ -14,7 +14,7 @@ Interesting placeholder description
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b>
+- <b>Brainstorming</b>
 
 <h2>Program walk-through:</h2>
 
